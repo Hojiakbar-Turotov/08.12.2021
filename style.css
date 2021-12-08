@@ -44,7 +44,7 @@ a {
 }
 
 body header {
-  background-image: url(./img/headervictor-garcia-1263465-unsplash@1X.jpeg);
+  background-image: url("./img/victor-garcia-1263465-unsplash@1X.png");
   background-size: cover;
   height: 100vh;
   padding-top: 25px;
